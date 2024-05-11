@@ -30,6 +30,7 @@ chmod +x Mac.app/Contents/ComponentManager
    - Battery
    - Diode
 ## The vision
+We're not there yet, but we're close
 
 ![alt text](https://github.com/matys2022/ComponentProject/blob/main/art1.png?raw=true)
 ![alt text](https://github.com/matys2022/ComponentProject/blob/main/art2.png?raw=true)
