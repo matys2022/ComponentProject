@@ -7,9 +7,9 @@
 
 - Save all your progress inside .xml file.
 - Simple console UI 
-- Wide variety of components availible
+- Wide variety of components available
 
-This product is going to change whole market, nothing like this have been developed, and GUI is going to bump up the expereince to the next level
+This product is going to change the whole market, nothing like this has been developed, and GUI is going to bump up the experience to the next level
 
 > "The first and last component manager that will ever come to your mind"
 
@@ -29,6 +29,12 @@ chmod +x Mac.app/Contents/ComponentManager
    - Capacitor
    - Battery
    - Diode
+## The vision
+	![alt text](https://github.com/[matys2022]/ComponentProject/blob/main/art1.png?raw=true)
+![alt text](https://github.com/[matys2022]/ComponentProject/blob/main/art2.png?raw=true)
+![alt text](https://github.com/[matys2022]/ComponentProject/blob/main/art3.png?raw=true)
+
+
 ## License
 
 open-source
