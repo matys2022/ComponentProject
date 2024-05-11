@@ -30,9 +30,9 @@ chmod +x Mac.app/Contents/ComponentManager
    - Battery
    - Diode
 ## The vision
-	![alt text](https://github.com/[matys2022]/ComponentProject/blob/main/art1.png?raw=true)
-![alt text](https://github.com/[matys2022]/ComponentProject/blob/main/art2.png?raw=true)
-![alt text](https://github.com/[matys2022]/ComponentProject/blob/main/art3.png?raw=true)
+	![alt text](https://github.com/matys2022/ComponentProject/blob/main/art1.png?raw=true)
+![alt text](https://github.com/matys2022/ComponentProject/blob/main/art2.png?raw=true)
+![alt text](https://github.com/matys2022/ComponentProject/blob/main/art3.png?raw=true)
 
 
 ## License
