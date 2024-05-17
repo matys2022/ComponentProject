@@ -5,11 +5,11 @@
 
 ## Features
 
-- Save all your progress inside .xml file.
-- Simple console UI 
+- Save all your progress inside an .xml file.
+- Simple console UI, for now
 - Wide variety of components available
 
-This product is going to change the whole market, nothing like this has been developed, and GUI is going to bump up the experience to the next level
+This program is going to change the whole market, nothing like this has been developed, and GUI is going to bump up the experience to the next level
 
 > "The first and last component manager that will ever come to your mind"
 
