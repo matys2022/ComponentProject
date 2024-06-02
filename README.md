@@ -9,7 +9,7 @@
 - Simple console UI, for now
 - Wide variety of components available
 
-This program is going to change the whole market, nothing like this has been developed, and GUI is going to bump up the experience to the next level
+This program is going to change the whole market, nothing like this has ever been developed, and GUI is going to bump up the experience to the next level
 
 > "The first and last component manager that will ever come to your mind"
 
