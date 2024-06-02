@@ -1,5 +1,5 @@
 # ComponentManager
-### The best you can find
+School project
 
 
 
